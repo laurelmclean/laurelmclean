@@ -17,7 +17,7 @@ Currently, I am studying 📚 Applied Computer Science at the Dominican Universi
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Front-end: HTML, CSS, JavaScript, React, Bootstrap
-
-Back-end: Python, Ruby on Rails, SQL, MySQL, MongoDB, Node.js, Express.js
-
+Languages: HTML, CSS, JavaScript, Ruby, Python, SQL
+Frameworks/Libraries: React, Rails, Bootstrap, Flask, Node.js, Express.js
+Tools: Git, GitHub, VSCode, Postman
+Databases: MySQL, MongoDB, GraphQL
