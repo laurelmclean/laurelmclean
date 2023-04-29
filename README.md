@@ -19,5 +19,5 @@ Currently, I am studying 📚 Applied Computer Science at the Dominican Universi
 
 Front-end: HTML, CSS, JavaScript, React, Bootstrap
 
-Back-end: Python, Ruby on Rails, SQL, MySQL, MongoDB
+Back-end: Python, Ruby on Rails, SQL, MySQL, MongoDB, Node.js, Express.js
 
